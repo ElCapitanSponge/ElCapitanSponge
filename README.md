@@ -33,14 +33,14 @@
 		<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ElCapitanSponge" />
 	</picture> -->
 	<picture>
-		<source
+<!-- 		<source
 			srcset="https://github-readme-streak-stats.herokuapp.com/?user=ElCapitanSponge&hide_border=true&card_width=338&theme=tokyonight"
 			media="(prefers-color-scheme: dark)"
 		/>
 		<source
 			srcset="https://github-readme-streak-stats.herokuapp.com/?user=ElCapitanSponge&hide_border=true&card_width=338&theme=nord_bright"
 			media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-		/>
+		/> -->
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElCapitanSponge&hide_border=true&card_width=338" />
 	</picture>
 	<!-- <picture>
