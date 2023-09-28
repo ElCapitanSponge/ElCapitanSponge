@@ -41,7 +41,7 @@
 			srcset="https://github-readme-streak-stats.herokuapp.com/?user=ElCapitanSponge&hide_border=true&card_width=338&theme=nord_bright"
 			media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 		/> -->
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElCapitanSponge&hide_border=true&card_width=338" />
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElCapitanSponge" />
 	</picture>
 	<!-- <picture>
 		<source
